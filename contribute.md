@@ -18,3 +18,10 @@ college: SBGI
 city: Sangli
 
 }
+
+{
+name: Ashish Aggarwal
+username: Ashish7129
+college: Department of Computer Science
+city: New Delhi
+}
